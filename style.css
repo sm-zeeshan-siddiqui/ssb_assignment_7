@@ -1,0 +1,310 @@
+body{
+    margin: 0px;
+    
+}
+
+.header{
+    width: 100%;
+    background-color:#131C2B;
+    min-height: 110px;
+}
+
+
+.header-wrapper{
+    width: 80%;
+    overflow: hidden;
+    margin-left: 10%;
+    
+
+}
+
+.logo{
+    float: left;
+    margin-top: 10px;
+   
+}
+
+.navigation-bar{
+    float: right;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 15px;
+    
+}
+
+.navigation-bar ul li{
+    float: left;    
+    list-style: none;
+}
+
+.navigation-bar ul li a{
+    
+    color: white;
+    padding-right:30px;
+    text-decoration: none;
+}
+
+
+.banner{
+    width: 100%;
+     
+    background-image: url(images/banner-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+.banner-content{
+    color: white;
+    width: 50%;
+    
+    margin: 250px 0 100px;
+}
+
+.banner-content h1{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    margin: 0;
+}
+
+.banner-content h2{
+    color: #0078BD;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    margin: 0;
+}
+
+
+.banner-content p{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    line-height: 25px;
+    font-size: 16px;
+    }
+
+.banner-wrapper{
+    width: 80%;
+    
+}
+
+.banner-content button{
+    padding: 10px 10px 10px;
+    font-size: 16px;
+    border-radius: 2px;
+    background-color: #F5F5F5;
+
+}
+
+.banner-content button i{
+    color: #0078BD;
+}
+
+.service-section {
+    width: 100%;
+    background-color: #121B2C;
+}
+
+.service-wrapper{
+    width: 80%;    
+    overflow: hidden;
+    margin-left: 10%;
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+}
+
+.service-1{
+    width: 30%;    
+    float: left;
+    margin-left: 25px;
+}
+
+.service-header{
+    overflow: hidden;
+}
+
+.service-logo{
+    float: left;
+}
+
+.service-logo-text{
+    float: left;
+    margin-top: 12px;
+    line-height: 25px;
+}
+
+.service-logo-text-1{
+    color: #F5F5F5;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.service-logo-text-2{
+    color: #0078BD;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.service-details p{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: normal;
+    line-height: 20px;
+
+}
+
+
+.product{
+    width:100%;
+    background-color: #040811;
+}
+
+.product-wrapper{
+    width: 80%;
+ 
+    overflow: hidden;
+    margin-left: 10%;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.pro-1{
+    width:30%;
+ 
+    float: left;
+    margin-left: 20px;
+    min-height: 206px;
+}
+
+.product-color{
+    color: #0078BD;
+}
+
+
+.pro-1 h2{
+    font-family: sans-serif;
+    color: white;
+    font-weight: normal;
+}
+
+.pro-1 p{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: normal;
+    line-height: 20px;
+}
+
+
+address{
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    color: white;
+}
+
+.address-title{
+    float: left;
+}
+
+.address-value{
+    float: left;
+    margin-left: 15px;
+}    
+
+.text-color{
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    color: white;
+}
+
+.pro-1-wrapper{
+    overflow: hidden;
+}
+
+.pro-img{
+    float: left;
+}
+
+.pro-des{
+    float: left;
+    margin-left: 10px;
+}
+
+.pro-color{
+    margin: 11px 0 0;
+}
+
+.edge{
+    margin: 11px 0;
+    font-weight: 600;
+    color: #0078BD;
+}
+
+.footer{
+    width:100%;
+    background-color: #121B2C;
+}
+
+.footer-wrapper{
+    width: 80%;
+  
+    margin-left: 10%;
+    overflow: hidden;
+}
+
+.footer-links{
+    width: 58%;
+   
+    overflow: hidden;
+    float: left;
+    margin-top: 15px;
+}
+
+.footer-logos{
+    width: 37%;
+  
+    float: right;
+}
+
+.footer-links ul{
+    overflow: hidden;
+    font-family: sans-serif;
+}
+
+.footer-links ul li{
+    float: left;
+    list-style: none;
+}
+
+.footer-links ul li a{
+    color: white;
+}
+
+.footer-lg-1{
+    float: left;
+}
+
+.footer-lg-2{
+    float: left;
+}
+
+.spaces{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.copyright{
+    color: white;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-left: 35px;
+}
